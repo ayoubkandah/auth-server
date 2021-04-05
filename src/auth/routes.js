@@ -78,7 +78,7 @@ authRouter.get('/secret', bearerAuth, async (req, res, next) => {
 
 
 // console.log("-------------",aa,"------------")
-  res.status(200).json({ NewToken : validUser.token , newPassword : password,YourUsername:validUser.username })
+  res.status(200).json({  newPassword : password,YourUsername:validUser.username })
 
   // } catch(err){
 //   throw new Error
