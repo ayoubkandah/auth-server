@@ -21,9 +21,9 @@ res data from db
 
 Heroku
 
-Action
+[Action](https://github.com/ayoubkandah/auth-server/actions)
 
-pull request
+[pull request](https://github.com/ayoubkandah/auth-server/pull/1)
 
 wml
 
